@@ -1,2 +1,2 @@
-# webpack modelo </>
-## Modelo para posteriores projetos usando webpack e babel.
+# Modelo para posteriores projetos
+## Modelo usando webpack e babel.
